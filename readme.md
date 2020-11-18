@@ -1,5 +1,5 @@
-# DevCamper 
-> Backend API for the DevCamper application, which is a bootcamp directory website.
+# Bootcamp Manager 
+> Backend API for an organization, that maintains a bootcamp directory website.
 
 ## Usage
 
